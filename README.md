@@ -1,0 +1,107 @@
+# Tradução de Pikmin 1² para Português do Brasil
+**Funciona apenas na versão 1.1 de Pikmin 1²**
+
+Dedicatória
+-----
+*Tradução dedicada carinhosamente a minha amiga Sabrina <3*
+
+Arquivos necessários
+-----
+- Tradução Pikmin 1^2 1.0 .xdelta -> contido no release
+- xdeltaUI -> contido no release
+- Pikmin 2 (USA) -> CRC32 3541416B
+- Pikmin 1² 1.1 -> Pode ser encontrado aqui: https://pikhacker.github.io
+
+Como aplicar a tradução:
+-----
+1. Baixe e extraia o romhack Pikmin 1² 1.1 da página https://pikhacker.github.io.
+2. Siga as instruções de como aplicar Pikmin 1² 1.1 para o seu Sistema Operacional sobre a .iso de Pikmin 2 AMERICANA.
+3. Aplicar tradução contida nessa pasta sobre a .iso recém gerada utilizando o xdeltaui.
+-----
+Instruções Detalhadas:
+
+1. Baixe e extraia o romhack Pikmin 1² 1.1 da página https://pikhacker.github.io
+
+2. Para Windows basta colocar a .iso original de Pikmin 2 dentro da pasta "\1_Squared_Patcher\Patchers\Windows" e despejar a .iso em "Drag Pikmin 2 ISO Here.bat". Uma tela do prompt de comando deve aparecer, após completar você terá uma .iso de Pikmin 1² com o nome "Pikmin 1^2 (v1.1).iso"
+																																	 
+
+3. Executar xdeltaui.exe
+
+4. Clicar na aba "Apply Patch:". Na primeira linha, "Patch:", clicar em "Open..."  e selecionar "Tradução Pikmin 1².xdelta"
+
+5. Na segunda linha, "Source File:", clicar em "Open..." selecionar "Pikmin 1^2 (v1.1).iso"
+
+6. Na terceira e últimna linha, "Output File:", clicar em "..." e salvar nesse modelo: nomedesuapreferência.iso. Importante salvar com .iso no final.
+
+7. Clicar em patch e esperar.
+
+Sobre
+-----
+
+Pikmin 1² é um port de Pikmin 1 para a engine de Pikmin 2 com conteúdo novo como o modo randomizador, uma nova aventura estrelando o Louie e modo para 2 jogadores!
+
+Tradução foi feita tendo como base e referência a tradução oficial de Pikmin 4. Inimigos originais introduzidos pelo romhack eu usei uma lógica de nomeação similar a tradução oficial de Pikmin 4. A tradução DEVE ser aplicada sobre o Pikmin1² versão 1.1. E também possivelmente nas versões futuras.
+
+																					 
+																														 
+																												 
+No entanto se novas de linhas de textos forem introduzidas essas novas linhas de texto devem aparecer no idioma original. Ainda assim é uma boa ideia utilizar sempre a versão mais recente de Pikmin 1² disponível no site do Pikhacker.
+																												   
+
+Antes de jogar no Dolphin com a tradução você DEVE aumentar a alocação de memória em Opções -> Configurações -> Avançado ou o modo randomizador irá bugar. Modo randomizador não funciona no GameCube original sem a memória extra do Dolphin. Todo o resto do jogo é jogavél no GameCube original menos o modo randomizador.
+																																									  
+
+![image](https://github.com/user-attachments/assets/bf9fa099-a547-43f9-be19-1bb31baf1790)
+
+
+
+Versão da Tradução: 1.0
+
+Ferramentas utilizadas
+-----
+
+Ferramentas utilizdas para tradução: Lunaboy's RARC Tools, pikminBMG, pyblo2-gui, GameCube File Tools, plt0 e Notepad++
+
+Podem ser quase todas encontradas aqui -> https://pikmintkb.com/wiki/Pikmin_2_instructions
+
+Ferramentas utilizdas para edição de texturas: Photoshop, Clip Studio
+
+Agradecimentos
+-----
+Pikhacker e a todas as pessoas fenomenais que criaram as ferramentas que possibilitaram a criação dessa tradução.
+
+Pikmintkb por organizar as ferramentas de forma fácil.
+
+Derdorrado por ter a paciência de traduzir as texturas, letra por letra. E ter me ensinado como utilizar o pyblo2-gui.
+
+Hocotate Hacker Discord
+
+"Se eu vi mais longe, foi porque estava sobre os ombros de gigantes”
+
+Créditos
+-----
+Tradução geral para o Português do Brasil: Grisi
+
+Tradução de texturas: Derdorrado
+
+
+Bugs
+-----
+
+Bugs conhecidos criados pela tradução
+
+1. Tela de aviso estranha quando jogado pelo Dolphin Versão 2412-64
+
+Ignorar o aviso parece não explodir meu computador. Provavelmente não deve explodir o seu também.
+
+										  
+Reporte bugs, ou erros de tradução aqui:
+https://github.com/mdsmendes94/pikmin1elevadoa2/issues									  
+
+Planos futuros:
+-----
+Tentar manter essa tradução em paridade com versões futuras de Pikmin 1²
+
+Possivelmente traduzir Pikmin 2
+
+Verificar a possibilidade de portar a tradução para versão de Switch
