@@ -8,7 +8,7 @@ Dedicatória
 Arquivos necessários
 -----
 - Tradução Pikmin 1^2 1.0 .xdelta -> contido no release
-- xdeltaUI -> contido no release
+- DeltaPatcher -> contido no release
 - Pikmin 2 (USA) -> CRC32 3541416B
 - Pikmin 1² 1.1 -> Pode ser encontrado aqui: https://pikhacker.github.io
 
@@ -16,7 +16,7 @@ Como aplicar a tradução:
 -----
 1. Baixe e extraia o romhack Pikmin 1² 1.1 da página https://pikhacker.github.io.
 2. Siga as instruções de como aplicar Pikmin 1² 1.1 para o seu Sistema Operacional sobre a .iso de Pikmin 2 AMERICANA.
-3. Aplicar tradução contida nessa pasta sobre a .iso recém gerada utilizando o xdeltaui.
+3. Aplicar tradução contida nessa pasta sobre a .iso recém gerada utilizando o DeltaPatcher.
 -----
 Instruções Detalhadas:
 
@@ -24,16 +24,13 @@ Instruções Detalhadas:
 
 2. Para Windows basta colocar a .iso original de Pikmin 2 dentro da pasta "\1_Squared_Patcher\Patchers\Windows" e despejar a .iso em "Drag Pikmin 2 ISO Here.bat". Uma tela do prompt de comando deve aparecer, após completar você terá uma .iso de Pikmin 1² com o nome "Pikmin 1^2 (v1.1).iso"
 																																	 
+3. Executar DeltaPatcher.exe
 
-3. Executar xdeltaui.exe
+4. Na primeira linha, "Original File:", clicar no ícone de pasta  e selecionar "Pikmin 1^2 (v1.1).iso"
 
-4. Clicar na aba "Apply Patch:". Na primeira linha, "Patch:", clicar em "Open..."  e selecionar "Tradução Pikmin 1².xdelta"
+5. Na segunda linha, "Xdelta Patch:", clicar no ícone de pasta e selecionar "Tradução Pikmin 1^2  (v1.0.0).xdelta"
 
-5. Na segunda linha, "Source File:", clicar em "Open..." selecionar "Pikmin 1^2 (v1.1).iso"
-
-6. Na terceira e última linha, "Output File:", clicar em "..." e salvar nesse modelo: nomedesuapreferência.iso. Importante salvar com .iso no final.
-
-7. Clicar em patch e esperar.
+6. Na terceira e últimna linha, clicar em "Apply Patch" e esperar.
 
 Sobre
 -----
