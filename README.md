@@ -31,7 +31,7 @@ Instruções Detalhadas:
 
 5. Na segunda linha, "Source File:", clicar em "Open..." selecionar "Pikmin 1^2 (v1.1).iso"
 
-6. Na terceira e últimna linha, "Output File:", clicar em "..." e salvar nesse modelo: nomedesuapreferência.iso. Importante salvar com .iso no final.
+6. Na terceira e última linha, "Output File:", clicar em "..." e salvar nesse modelo: nomedesuapreferência.iso. Importante salvar com .iso no final.
 
 7. Clicar em patch e esperar.
 
