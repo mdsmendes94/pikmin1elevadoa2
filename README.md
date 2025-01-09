@@ -7,8 +7,8 @@ Dedicatória
 
 Arquivos necessários
 -----
-- Tradução Pikmin 1^2 1.0 .xdelta -> contido no release
-- DeltaPatcher -> contido no release
+- Tradução Pikmin 1^2  (v1.0.0).xdelta -> contido no release 1.0.0 desse repositório
+- DeltaPatcher -> contido no release 1.0.0 desse repositório
 - Pikmin 2 (USA) -> CRC32 3541416B
 - Pikmin 1² 1.1 -> Pode ser encontrado aqui: https://pikhacker.github.io
 
