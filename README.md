@@ -30,7 +30,7 @@ Instruções Detalhadas:
 
 5. Na segunda linha, "Xdelta Patch:", clicar no ícone de pasta e selecionar "Tradução Pikmin 1^2  (v1.0.0).xdelta"
 
-6. Na terceira e últimna linha, clicar em "Apply Patch" e esperar.
+6. Na terceira e última linha, clicar em "Apply Patch" e esperar.
 
 Sobre
 -----
