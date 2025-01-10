@@ -81,7 +81,7 @@ Tradução geral para o Português do Brasil: Grisi
 
 Tradução de texturas: Derdorrado
 
-Agradecimentos Especiais: Tover
+Agradecimentos Especiais: Tover e meu irmão
 
 
 Bugs
