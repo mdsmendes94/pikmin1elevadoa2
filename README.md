@@ -37,7 +37,7 @@ Sobre
 
 Pikmin 1² é um port de Pikmin 1 para a engine de Pikmin 2 com conteúdo novo como o modo randomizador, uma nova aventura estrelando o Louie e modo para 2 jogadores!
 
-Tradução foi feita tendo como base e referência a tradução oficial de Pikmin 4. Inimigos originais introduzidos pelo romhack eu usei uma lógica de nomeação similar a tradução oficial de Pikmin 4. A tradução DEVE ser aplicada sobre o Pikmin1² versão 1.1. E também possivelmente nas versões futuras.
+Tradução foi feita tendo como base e referência a tradução oficial de Pikmin 4. Inimigos originais introduzidos pelo romhack eu usei uma lógica de nomeação similar a tradução oficial de Pikmin 4. A tradução DEVE ser aplicada sobre o Pikmin1² versão 1.1.
 
 																					 
 																														 
