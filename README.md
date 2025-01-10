@@ -37,12 +37,12 @@ Sobre
 
 Pikmin 1² é um port de Pikmin 1 para a engine de Pikmin 2 com conteúdo novo como o modo randomizador, uma nova aventura estrelando o Louie e modo para 2 jogadores!
 
-Tradução foi feita tendo como base e referência a tradução oficial de Pikmin 4. Inimigos originais introduzidos pelo romhack e inimigos que não receberam uma tradução por não apaarecerem no Pikmin 4 eu usei uma lógica de nomeação similar a tradução oficial de Pikmin 4.
+Tradução foi feita tendo como base e referência a tradução oficial de Pikmin 4. Inimigos originais introduzidos pelo romhack e inimigos que não receberam uma tradução por não aparecerem no Pikmin 4 eu usei uma lógica de nomeação similar a tradução oficial de Pikmin 4.
 
 																					 
 																														 
 																												 
-No entanto se novas de linhas de textos forem introduzidas essas novas linhas de texto devem aparecer no idioma original. Ainda assim é uma boa ideia utilizar sempre a versão mais recente de Pikmin 1² disponível no site do Pikhacker. A tradução DEVE ser aplicada sobre o Pikmin1² versão 1.1.
+A tradução **DEVE** ser aplicada sobre o Pikmin1² versão 1.1.
 																												   
 
 Antes de jogar no Dolphin com a tradução você DEVE aumentar a alocação de memória em Opções -> Configurações -> Avançado ou o modo randomizador irá bugar. Modo randomizador não funciona no GameCube original sem a memória extra do Dolphin. Todo o resto do jogo é jogavél no GameCube original menos o modo randomizador.
