@@ -34,6 +34,7 @@ Instruções Detalhadas:
 
 Sobre
 -----
+Versão da Tradução: 1.0.1
 
 Pikmin 1² é um port de Pikmin 1 para a engine de Pikmin 2 com conteúdo novo como o modo randomizador, uma nova aventura estrelando o Louie e modo para 2 jogadores!
 
@@ -51,8 +52,6 @@ Antes de jogar no Dolphin com a tradução você DEVE aumentar a alocação de m
 ![image](https://github.com/user-attachments/assets/bf9fa099-a547-43f9-be19-1bb31baf1790)
 
 
-
-Versão da Tradução: 1.0
 
 Ferramentas utilizadas
 -----
