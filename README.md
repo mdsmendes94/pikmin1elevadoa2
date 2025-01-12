@@ -87,12 +87,6 @@ Agradecimentos Especiais: Tover e meu irmão
 Bugs
 -----
 
-Bugs conhecidos criados pela tradução
-
-1. Tela de aviso estranha quando jogado pelo Dolphin Versão 2412-64
-
-Ignorar o aviso parece não explodir meu computador. Provavelmente não deve explodir o seu também.
-
 										  
 Reporte bugs, ou erros de tradução aqui:
 https://github.com/mdsmendes94/pikmin1elevadoa2/issues									  
