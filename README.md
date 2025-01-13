@@ -1,5 +1,6 @@
 # Tradução de Pikmin 1² para Português do Brasil
 **Funciona apenas na versão 1.1 de Pikmin 1²**
+
 Utilize sempre a versão mais recente da tradução para uma melhor experiência
 
 Dedicatória
