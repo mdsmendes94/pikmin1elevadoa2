@@ -1,5 +1,6 @@
 # Tradução de Pikmin 1² para Português do Brasil
 **Funciona apenas na versão 1.1 de Pikmin 1²**
+Utilize sempre a versão mais recente da tradução para uma melhor experiência
 
 Dedicatória
 -----
@@ -7,8 +8,8 @@ Dedicatória
 
 Arquivos necessários
 -----
-- Tradução Pikmin 1^2  (v1.0.0).xdelta -> contido no release 1.0.0 desse repositório
-- DeltaPatcher -> contido no release 1.0.0 desse repositório
+- Tradução Pikmin 1^2.xdelta -> contido em todos os release desse repositório
+- DeltaPatcher -> contido em todos os release desse repositório
 - Pikmin 2 (USA) -> CRC32 3541416B
 - Pikmin 1² 1.1 -> Pode ser encontrado aqui: https://pikhacker.github.io
 
@@ -28,13 +29,13 @@ Instruções Detalhadas:
 
 4. Na primeira linha, "Original File:", clicar no ícone de pasta  e selecionar "Pikmin 1^2 (v1.1).iso"
 
-5. Na segunda linha, "Xdelta Patch:", clicar no ícone de pasta e selecionar "Tradução Pikmin 1^2  (v1.0.0).xdelta"
+5. Na segunda linha, "Xdelta Patch:", clicar no ícone de pasta e selecionar "Tradução Pikmin 1^2.xdelta"
 
 6. Na terceira e última linha, clicar em "Apply Patch" e esperar.
 
 Sobre
 -----
-Versão da Tradução: 1.0.1
+Versão da Tradução: 1.0.2
 
 Pikmin 1² é um port de Pikmin 1 para a engine de Pikmin 2 com conteúdo novo como o modo randomizador, uma nova aventura estrelando o Louie e modo para 2 jogadores!
 
