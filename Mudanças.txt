@@ -1,0 +1,18 @@
+Versão 1.0.4
+- Fonte e diacríticos melhorados um pouco
+
+Versão 1.0.3
+- Formatação nas caixas de textos melhoradas para caber tradução
+- Tradução melhorada e alguns pequenas partes que esqueci de traduzir foram traduzidas
+
+Versão 1.0.2
+- Tradução em geral melhorada principalmente na missão de Louie
+- Melhoria de UI para tradução
+- Corrigo texturas mal funcionando em alguns estágios
+
+Versão 1.0.1
+- Corrigido bug que aparecia ao esperar na tela título usando o Dolphin;
+- Mudança de .arc descomprimidos para .szs comprimidos em yaz0;
+
+Versão 1.0
+- Lançamento
