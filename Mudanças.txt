@@ -1,3 +1,8 @@
+Versão 1.0.4.1
+- Cores das fontes restauradas
+- Corrigido bug que fazia "Õ" ser mostrado como "Ô" nos textos
+- Tradução atualizada
+
 Versão 1.0.4
 - Fonte e diacríticos melhorados um pouco
 
