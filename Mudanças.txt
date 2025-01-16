@@ -1,3 +1,11 @@
+Versão 1.0.5
+- Melhoria na UI de Ranking
+- Melhoria na UI de Seleção de área
+- Melhoria na UI de Notas de criaturas
+- Melhoria na UI de Registros de nave
+- Correção de texto no menu de Opções
+- Pequenas melhorias na fonte de texto
+
 Versão 1.0.4.1
 - Cores das fontes restauradas
 - Corrigido bug que fazia "Õ" ser mostrado como "Ô" nos textos
