@@ -1,3 +1,6 @@
+Versão 1.0.5.1
+- Polimentos ortográficos principalmente na Missão de Olimar
+
 Versão 1.0.5
 - Melhoria na UI de Ranking
 - Melhoria na UI de Seleção de área
