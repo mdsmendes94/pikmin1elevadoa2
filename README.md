@@ -103,6 +103,6 @@ Planos futuros:
 -----
 Tentar manter essa tradução em paridade com versões futuras de Pikmin 1²
 
-Possivelmente traduzir Pikmin 2
+~Possivelmente traduzir Pikmin 2~ -> Feito
 
-Verificar a possibilidade de portar a tradução para versão de Switch
+~Verificar a possibilidade de portar a tradução para versão de Switch~ -> Impossível sem o port de 1² para a versão de Switch
