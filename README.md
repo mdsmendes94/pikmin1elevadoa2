@@ -43,7 +43,7 @@ Instruções Detalhadas:
 
 Sobre
 -----
-Versão da Tradução: 1.0.5.1
+Versão da Tradução: 1.1
 
 Pikmin 1² é um port de Pikmin 1 para a engine de Pikmin 2 com conteúdo novo como o modo randomizador, uma nova aventura estrelando o Louie e modo para 2 jogadores!
 
@@ -75,11 +75,13 @@ Agradecimentos
 -----
 Pikhacker e a todas as pessoas fenomenais que criaram as ferramentas que possibilitaram a criação dessa tradução.
 
+Pikhacker por ter me ajudado e ensinado algumas coisas.
+
 Pikmintkb por organizar as ferramentas de forma fácil.
 
 Derdorrado por ter a paciência de traduzir as texturas, letra por letra. E ter me ensinado como utilizar o pyblo2-gui.
 
-Hocotate Hacker Discord
+Hocotate Hacker Discord, Vulcan & Cube(Thank you guys!)
 
 "Se eu vi mais longe, foi porque estava sobre os ombros de gigantes”
 
